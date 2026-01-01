@@ -1,0 +1,5 @@
+{
+  "name": "MessMate - Hotel Finance Tracker",
+  "description": "A mobile-first finance and customer tracking system for hotels and mess services. Features subscription management, meal tracking, expense logging, and analytics.",
+  "requestFramePermissions": []
+}
